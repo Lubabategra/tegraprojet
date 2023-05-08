@@ -14,3 +14,25 @@ print(nom)#afficher la valeur de nom
 n = 7 # définir la variable n et lui donner la valeur 7
 msg = "Quoi de neuf ?" # affecter la valeur "Quoi de neuf ?" à msg
 pi = 3.14159 # assigner sa valeur à la variable pi
+y=3.5#float
+nom="tegra"#str
+led=False #bool
+a,b=5,7
+print(b)
+c=a**2 #**2 pour la puissance
+print(c)
+m=10
+n=2
+p=m/n
+q=m//n
+print(p)
+print(q)
+#les opérateurs de comparaison 
+# <=, ==,>=,<,>, !=
+print(p<q)
+print(p<=q)
+#les opérateur logique
+#and:la reponse est vrai lorsque les deux conditions sont vrais,
+#or:la repose est vrai lorsque parmis les conditions l'une est vrai,
+#not: est vrai lorsque la condition est vraie
+print(not m!=n )
